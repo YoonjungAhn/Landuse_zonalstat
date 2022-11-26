@@ -1,3 +1,4 @@
+# Note: This dataset is missing some states. I am working on updating the missing states
 # Landuse_zonalstat
 NLCD 2016: USGS National Land Cover Database, 2016 release data with 2010 and 2020 boundary (census tract / census block)
 
